@@ -2,7 +2,7 @@
 Notre objectif principal est de vous faire sourire, rire et réfléchir sur la politique de manière ludique. 
 À aucun moment, nous ne prenons parti pour une quelconque faction ou parti politique. Nous sommes totalement impartiaux.**
 
-#Ce projet est à destination du projet bibliothèque de l'école IPSSI
+# Ce projet est à destination du projet bibliothèque de l'école IPSSI
 
 **Thème direction artistique :** Élégance Monochrome
 **Nom de la bibliothèque** : Bibliopoliticus
