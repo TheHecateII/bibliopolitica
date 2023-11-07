@@ -7,6 +7,7 @@ Notre objectif principal est de vous faire sourire, rire et réfléchir sur la p
 **Thème direction artistique :** Élégance Monochrome
 **Nom de la bibliothèque** : Bibliopoliticus
 **Spécialisation** : Mise à disposition des œuvres littéraire des figures politique française *(Pas de prise de position que du référencement)*
+
 **Logo :** https://cdn.discordapp.com/attachments/967558869112979506/1171367450311413880/vOIG.png?ex=655c6bf3&is=6549f6f3&hm=2c71188ce749d60bd2b25b6d6173b3b64dc0d34f60911fc640aa8720d45fa482&
 
 **Police utiliser pour le site :** 
